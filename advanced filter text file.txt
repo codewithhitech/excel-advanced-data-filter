@@ -1,0 +1,14 @@
+
+
+
+ये वो 2  तरीके है जिनसे डाटा को एक daynemic range दे सकते है ,,,,,,
+
+
+1
+=INDIRECT("Data!$A$2:$E$"&COUNTA(Data!$A:$A))
+
+
+
+2
+=INDIRECT("puradatayehai")
+
